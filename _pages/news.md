@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
 permalink: /news/
-layout: posts
+layout: single
 author_profile: false
 ---
