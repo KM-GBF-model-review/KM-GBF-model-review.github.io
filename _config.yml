@@ -116,12 +116,11 @@ author:
   name             : "Biofutures"
   avatar           : "/assets/images/biofutures.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  email            : p.walkden@nhm.ac.uk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:p.walkden@nhm.ac.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
