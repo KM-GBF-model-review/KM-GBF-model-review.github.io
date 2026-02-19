@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
 permalink: /engage/
-layout: tags
+layout: single
 author_profile: false
 ---
