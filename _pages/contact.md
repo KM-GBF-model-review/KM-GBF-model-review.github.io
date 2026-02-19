@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Contact"
 permalink: /contact/
 layout: single
 author_profile: false
