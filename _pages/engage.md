@@ -1,8 +1,12 @@
 ---
-title: "Engage"
-permalink: /engage/
+title: "Resources"
+permalink: /resources/
 layout: single
 author_profile: false
 ---
 
-# Upcoming events
+## Upcoming events
+
+### Webinars
+
+### World Biodiversity Forum
