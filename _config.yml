@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "KM-GBF Model Review"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "KM-GBF Model Review"
+description              : "Bringing together a community of modellers to better inform the implementation of global biodiversity policy frameworks."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Biofutures"
   avatar           : "/assets/images/biofutures.png"
-  bio              : "I am an **amazing** person."
+  bio              : "Bringing together a community of modellers to better inform the implementation of global biodiversity policy frameworks."
   email            : p.walkden@nhm.ac.uk
   links:
     - label: "GitHub"
