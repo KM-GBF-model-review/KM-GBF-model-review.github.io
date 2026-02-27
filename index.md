@@ -15,10 +15,10 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/explore_database.png
     alt: "Image of database desciptive statistics"
-    title: "Explore the database"
+ #   title: "Explore the database"
  #   excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/database_explorer/"
-    btn_label: "Read More"
+    btn_label: "Explore the database"
     btn_class: "btn--primary"
   - image_path: /assets/images/landscape.png
     title: "Placeholder 3"
