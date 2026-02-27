@@ -7,4 +7,4 @@ classes: wide
 ---
 
 
-Explore the model database using this shiny app: <a href="https://walkden95.shinyapps.io/km-gbf-model-database/" target="_blank" rel="noopener noreferrer">here</a>
+Explore the model database using this shiny app: <a href="https://walkden95.shinyapps.io/km-gbf-model-database/" target="_blank" rel="noopener noreferrer">Here</a>
