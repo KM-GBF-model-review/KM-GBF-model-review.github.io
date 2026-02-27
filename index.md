@@ -11,9 +11,20 @@ intro:
 feature_row:
   - image_path: assets/images/landscape.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Learn more"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/resources/"
+    btn_label: "Explore the database"
+    btn_class: "btn--primary"
 feature_row2:
+  - image_path: assets/images/landscape.png
+    alt: "placeholder image 1"
+    title: "Learn more"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/resources/"
+    btn_label: "Explore the database"
+    btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/explore_database.png
     alt: "Image of database desciptive statistics"
     title: "KM-GBF Model database explorer"
@@ -21,7 +32,7 @@ feature_row2:
     url: "/database_explorer/"
     btn_label: "Explore the database"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/landscape.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
@@ -37,3 +48,5 @@ feature_row3:
 {% include feature_row id="feature_row2" type = "right" %}
 
 {% include feature_row id="feature_row3" type = "left" %}
+
+{% include feature_row id="feature_row4" type = "right" %}
