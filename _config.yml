@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "KM-GBF Model Review"
 title_separator          : "-"
@@ -98,21 +98,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Biofutures"
+  name             : "KM-GBF Model Review"
   avatar           : "/assets/images/biofutures.png"
   bio              : "Bringing together a community of modellers to better inform the implementation of global biodiversity policy frameworks."
   email            : p.walkden@nhm.ac.uk
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/KM-GBF-model-review"
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/KM-GBF-model-review"
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-  since: "2026"
+#footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#  since: "2026"
 
 
 # Reading Files
