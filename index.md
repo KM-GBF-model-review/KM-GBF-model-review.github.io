@@ -13,10 +13,10 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/ecplore_database.png
+  - image_path: /assets/images/explore_database.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+    alt: "Image of database desciptive statistics"
+    title: "Explore the database"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
