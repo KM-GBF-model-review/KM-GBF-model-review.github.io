@@ -17,7 +17,7 @@ feature_row2:
   - image_path: /assets/images/explore_database.png
     alt: "Image of database desciptive statistics"
     title: "KM-GBF Model database explorer"
-   excerpt: "Visualise how the models in out database relate to the goals and targets of the KM-GBF and other aspects of scenario analyses/"
+    excerpt: "Visualise how the models in out database relate to the goals and targets of the KM-GBF and other aspects of scenario analyses/"
     url: "/database_explorer/"
     btn_label: "Explore the database"
     btn_class: "btn--primary"
