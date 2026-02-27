@@ -13,7 +13,7 @@ author_profile: false
 ### World Biodiversity Forum
 
 [FUT8] Workshop "Developing actionable scenarios and models for biodiversity conservation, climate neutrality, and human wellbeing through collaborative and integrated research and practice" 
-[Link to Workshop](https://meetingorganizer.copernicus.org/WBF2026/session/55563#)
+<a href="https://meetingorganizer.copernicus.org/WBF2026/session/55563#" target="_blank" rel="noopener noreferrer">Link to Workshop</a>
 
 Date and venue: 14 June 2026, World Biodiversity Forum 2026 
 
