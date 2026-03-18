@@ -30,20 +30,23 @@ Date and venue: 14 June 2026, World Biodiversity Forum 2026
 
 ----------------
 
-**Pre-workshop webinar 1**
- "CBD, IPBES, the Nature Futures Framework, and their integrative national application"
+**Pre-workshop webinar 1 - 25th Feb 2026**
+
+"CBD, IPBES, the Nature Futures Framework, and their integrative national application"
 
 Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidiscplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. There will be designated time for Q&A discussion.
 
-Slides can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf)
+Slides can be downloaded <a href="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
+
+
 
 #### March
 
 -------------------
 
-**Pre-workshop webinar 2**
+**Pre-workshop webinar 2 - 27th March 2026**
 
 'Multi-faceted biodiversity and ecosystem services modelling for scenario analyses and policy support'
 
