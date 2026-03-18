@@ -6,7 +6,7 @@ main:
     url: /resources/
   - title: "Database explorer"
     url: /database_explorer/
-  - title: "News"
-    url: /news/
+  - title: "Report"
+    url: /report/
   - title: "Contact"  
     url: /contact/
