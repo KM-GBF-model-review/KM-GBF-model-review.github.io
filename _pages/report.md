@@ -3,6 +3,7 @@ title: "Report"
 permalink: /report/
 layout: single
 author_profile: false
+classes: wide
 ---
 
 
