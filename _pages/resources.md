@@ -32,7 +32,7 @@ Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of I
 
 Slides can be downloaded (here)[https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf]
 
-Recording:
+Recording can be downloaded (here)[https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4]
 
 #### March
 
