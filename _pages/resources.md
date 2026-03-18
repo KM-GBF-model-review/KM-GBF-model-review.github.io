@@ -6,9 +6,12 @@ classes: wide
 author_profile: false
 ---
 
+------------------
 In the run up to the World Biodiversity Forum in June, where we will be conveneing an in-person workshop, we will also we organising several pre-workshop webinars. There will be approximately one webinar a month and you can find details of up-coming webinars and recordings of previous webinars here.
 
 The pre-workshop webinars are intended to provide background information that will facilitate discussion at the Workshop of the World Biodiveresity Forum in June 2026.
+
+------------------
 
 ### World Biodiversity Forum Workshop - June 14th 2026
 
@@ -25,16 +28,20 @@ Date and venue: 14 June 2026, World Biodiversity Forum 2026
 
 #### February
 
+----------------
+
 **Pre-workshop webinar 1**
  "CBD, IPBES, the Nature Futures Framework, and their integrative national application"
 
 Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidiscplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. There will be designated time for Q&A discussion.
 
-Slides can be downloaded (here)[https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf]
+Slides can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf)
 
-Recording can be downloaded (here)[https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4]
+Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
 
 #### March
+
+-------------------
 
 **Pre-workshop webinar 2**
 
@@ -50,9 +57,12 @@ Date: 4-5pm CET 27 March 2026
 
 #### April 
 
+--------------------
+
 TPD
 
-
 #### May
+
+--------------------
 
 TPD
