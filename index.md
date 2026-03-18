@@ -7,7 +7,7 @@ header:
     overlay_image: /assets/images/landscape.png
 excerpt: "Convening a network of modellers and scenario developers to tackle the couple biodiversity and climate crises"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'The vision of this network is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between policy bodies and scientific communities.'
 feature_row:
   - image_path: assets/images/landscape.png
     alt: "placeholder image 1"
