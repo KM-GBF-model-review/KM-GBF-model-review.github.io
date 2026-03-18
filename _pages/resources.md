@@ -20,6 +20,8 @@ The pre-workshop webinars are intended to provide background information that wi
 
 Date and venue: 14 June 2026, World Biodiversity Forum 2026 
 
+**Sign up required:** <a href="https://docs.google.com/spreadsheets/d/1CU2TcwNbZo43uieDzZPikz8LSsw2CepMYfUgZ6_jpcs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">**here**</a> 
+
 --------------
 
 ### Webinars
