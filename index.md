@@ -12,7 +12,6 @@ feature_row:
   - image_path: assets/images/landscape.png
     alt: "placeholder image 1"
     title: "Learn about the network"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/about/"
     btn_label: "About us"
     btn_class: "btn--primary"
