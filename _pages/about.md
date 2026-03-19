@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
@@ -13,6 +13,7 @@ Recognising that progress has been hampered by fragmented modelling communities 
 
 Our hope is for this network to support collaborative research, shared scenario frameworks, and strategic roadmaps that translate scientific insight into actionable guidance for policymakers at national and global scales.
 
+---------------------
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/assets/images/biofutures.png" alt="Biofutures logo" style="width: 200px;"/>
