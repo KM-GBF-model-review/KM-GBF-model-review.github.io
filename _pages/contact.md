@@ -6,6 +6,9 @@ author_profile: true
 classes: wide
 ---
 
+## The team
+
+------------------
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/assets/images/hyejin.png" alt="Report title page" style="width: 100px;"/>
@@ -16,6 +19,7 @@ classes: wide
   </div>
 </div>
 
+----------------
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/assets/images/bernd.png" alt="Report title page" style="width: 100px;"/>
@@ -26,6 +30,7 @@ University of Vienna
   </div>
 </div>
 
+---------------
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/assets/images/patrick.jpeg" alt="Report title page" style="width: 100px;"/>
