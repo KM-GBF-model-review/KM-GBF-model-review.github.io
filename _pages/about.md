@@ -18,7 +18,7 @@ Our hope is for this network to support collaborative research, shared scenario 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/assets/images/biofutures.png" alt="Biofutures logo" style="width: 200px;"/>
   <div>
-    <strong>Biofutures project</strong>
+    <strong>BioFutures project</strong>
     <br><br>
 Biofutures is a research and policy project designed to explore the range of possible outcomes from implementing the Kunming-Montreal Global Biodiversity Framework (KM-GBF). The project addresses a critical evidence gap: how different beliefs and approaches to nature could lead to diverging futures for both biodiversity and people, and whether the KM-GBF's ultimate Goals can be achieved under varying interpretations of nature.
 <br><br>
