@@ -38,8 +38,6 @@ Date and venue: 14 June 2026, World Biodiversity Forum 2026
 
 Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidiscplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. There will be designated time for Q&A discussion.
 
-Slides can be downloaded <a href="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/slides.pdf" target="_blank" rel="noopener noreferrer">here</a>
-
 Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
 
 
@@ -50,7 +48,7 @@ Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-wo
 
 **Pre-workshop webinar 2 - 27th March 2026**
 
-'Multi-faceted biodiversity and ecosystem services modelling for scenario analyses and policy support'
+"Multi-faceted biodiversity and ecosystem services modelling for scenario analyses and policy support"
 
 This session introduces two major Model Intercomparison Projects (MIPs) that have evolved over the past two decades in biodiversity science from marine to terrestrial systems - their origins, policy and societal context, community-driven development, and scientific contributions. The focus is on how a diverse ensemble of biodiversity, ecosystem functioning, and services models can collectively and consistently simulate scenarios, highlighting the value of comparative and complementary modelling for scientifically rigorous, purposeful, and context-specific policy support. Presentations will provide an outlook on how MIPs can advance standardizing data (e.g., EBVs, EESVs, NCPs) for social-ecological monitoring and indicator development and inform biodiversity spatial planning, target-setting, and progress reporting in the CBD National Reports and National Biodiversity Strategies and Action Plans.
 
@@ -64,10 +62,21 @@ Date: 4-5pm CET 27 March 2026
 
 --------------------
 
-TPD
+**Pre-workshop webinar 3 - April 2026**
+
+"Improving long-term biodiversity governance and implementation efficacy with NBSAPs, NRs and national indicators"
+
+Speakers: Lize von Staden (SANBI) 
 
 #### May
 
 --------------------
 
-TPD
+**Pre-workshop webinar 4 - May 2026**
+
+"Linking data to decision to improve the scientific rigour in biodiversity governance with impact assessment, scenarios and models"
+
+
+Speakers: Franz Essl (University of Vienna) 
+
+--------------
