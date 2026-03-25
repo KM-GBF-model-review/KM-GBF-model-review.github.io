@@ -10,4 +10,4 @@ Explore the model database using this shiny app: <a href="https://walkden95.shin
 
 --------------------
 
-<img src="/assets/images/database_table.png" alt="Description" width="300" height="200">
+<img src="/assets/images/database_table.png" alt="Description" width="800" height="600">
