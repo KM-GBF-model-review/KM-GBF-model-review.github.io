@@ -59,25 +59,4 @@ Presentation 2: BES-SIM (terrestrial model intercomparison project) by Prof. Hen
 
 Date: 4-5pm CET 27 March 2026
 
-#### April 
 
---------------------
-
-**Pre-workshop webinar 3 - April 2026**
-
-"Improving long-term biodiversity governance and implementation efficacy with NBSAPs, NRs and national indicators"
-
-Speakers: Lize von Staden (SANBI) 
-
-#### May
-
---------------------
-
-**Pre-workshop webinar 4 - May 2026**
-
-"Linking data to decision to improve the scientific rigour in biodiversity governance with impact assessment, scenarios and models"
-
-
-Speakers: Franz Essl (University of Vienna) 
-
---------------
