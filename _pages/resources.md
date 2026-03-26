@@ -41,7 +41,10 @@ Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of I
 
 Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
 
-
+<video width="640" height="360" controls>
+  <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 #### March
 

@@ -14,7 +14,7 @@ classes: wide
   <img src="/assets/images/hyejin.png" alt="Report title page" style="width: 100px;"/>
   <div>
     <strong>HyeJin Kim</strong>
-    UKCEH
+    UK Centre for Ecology and Hydrology
     <br><br>
   </div>
 </div>
