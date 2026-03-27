@@ -36,7 +36,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "How to get involved"
     excerpt: "If you would like to contribute to the network or think your model is relevant for our database you can let us know"
-    url: "/contact/"
+    #url: "/contact/"
     btn_label: "Contact us"
     btn_class: "btn--primary"
 ---
