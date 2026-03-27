@@ -39,12 +39,14 @@ Date and venue: 14 June 2026, World Biodiversity Forum 2026
 
 Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidiscplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. There will be designated time for Q&A discussion.
 
-Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
-
 <video width="640" height="360" controls>
   <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
+
+
 
 #### March
 
