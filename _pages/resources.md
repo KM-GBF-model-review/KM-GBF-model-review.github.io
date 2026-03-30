@@ -62,6 +62,9 @@ Presentation 1: FishMIP (marine model intercomparison project) by Prof. Derek Ti
 
 Presentation 2: BES-SIM (terrestrial model intercomparison project) by Prof. Henrique Pereira, iDiv German Centre for Integrative Biodiversity Research 
 
-Date: 4-5pm CET 27 March 2026
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/KM-GBF-model-review/Pre-workshop-Webinars/main/March%20-%20FishMIP_and_BESSIM/recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
