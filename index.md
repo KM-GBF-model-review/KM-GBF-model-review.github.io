@@ -5,7 +5,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: /assets/images/landscape.png
-excerpt: "Convening a network of modellers and scenario developers to tackle the couple biodiversity and climate crises"
+excerpt: "Convening a network of modellers and scenario developers to tackle the biodiversity polycrisis"
 intro: 
   - excerpt: 'The vision of this network is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between policy bodies and scientific communities.'
 feature_row:

@@ -37,7 +37,7 @@ Date and venue: 14 June 2026, World Biodiversity Forum 2026
 
 "CBD, IPBES, the Nature Futures Framework, and their integrative national application"
 
-Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidiscplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. There will be designated time for Q&A discussion.
+Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of IPBES Multidisciplinary Expert Panel) will give a presentation on how Japan has taken-up and applied the CBD policy frameworks, IPBES science-policy interface mechanisms and the Nature Futures (scenario modelling) Framework to long-term national research projects in informing policy in the last two decades. Japan has systematically reflected CBD and IPBES developments into Japan's national assessments, including the Satoyama-Satoumi Assessment, followed by the ongoing Japan Biodiversity Outlook series. Early work relied on expert judgement given data gaps, particularly for regulating and cultural services, with successive research programmes progressively shifted toward more spatially explicit and quantitative approaches.
 
 <video width="640" height="360" controls>
   <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4" type="video/mp4">
@@ -58,7 +58,7 @@ Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-wo
 
 This session introduces two major Model Intercomparison Projects (MIPs) that have evolved over the past two decades in biodiversity science from marine to terrestrial systems - their origins, policy and societal context, community-driven development, and scientific contributions. The focus is on how a diverse ensemble of biodiversity, ecosystem functioning, and services models can collectively and consistently simulate scenarios, highlighting the value of comparative and complementary modelling for scientifically rigorous, purposeful, and context-specific policy support. Presentations will provide an outlook on how MIPs can advance standardizing data (e.g., EBVs, EESVs, NCPs) for social-ecological monitoring and indicator development and inform biodiversity spatial planning, target-setting, and progress reporting in the CBD National Reports and National Biodiversity Strategies and Action Plans.
 
-Presentation 1: FishMIP (marine model intercomparison project) by Prof. Derek Tittensor, Dalhouse University
+Presentation 1: FishMIP (marine model intercomparison project) by Prof. Derek Tittensor, Dalhousie University
 
 Presentation 2: BES-SIM (terrestrial model intercomparison project) by Prof. Henrique Pereira, iDiv German Centre for Integrative Biodiversity Research 
 
