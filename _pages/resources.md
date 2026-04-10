@@ -44,9 +44,6 @@ Description:  Prof. Shizuka Hashimoto (University of Tokyo, former co-chair of I
   Your browser does not support the video tag.
 </video>
 
-Recording can be downloaded [here](https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/Februrary%20-%20Shizuka%20Hashimoto/recording.mp4)
-
-
 
 #### March
 
@@ -67,4 +64,14 @@ Presentation 2: BES-SIM (terrestrial model intercomparison project) by Prof. Hen
   Your browser does not support the video tag.
 </video>
 
+#### April
 
+------------------
+
+**Pre-workshop webinar 3 - 23th April 2026**
+
+"Integration of biodiversity indicators in policy – a national case study"
+
+This presentation will give an overview of biodiversity monitoring and assessment processes implemented over the last 20 years in South Africa, and how it has influenced national policy and action. South Africa is a party to the CBD, and takes its commitments to biodiversity conservation seriously, but like many other developing countries, we have experienced challenges with national implementation of CBD targets. The presentation will give a national perspective on the implementation of the KMGBF, and how South Africa is exploring new ways to overcome implementation challenges.
+
+Presenter: Dr. Lize von Staden, South Africa National Biodiversity Institute
