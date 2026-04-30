@@ -75,3 +75,8 @@ Presentation 2: BES-SIM (terrestrial model intercomparison project) by Prof. Hen
 This presentation will give an overview of biodiversity monitoring and assessment processes implemented over the last 20 years in South Africa, and how it has influenced national policy and action. South Africa is a party to the CBD, and takes its commitments to biodiversity conservation seriously, but like many other developing countries, we have experienced challenges with national implementation of CBD targets. The presentation will give a national perspective on the implementation of the KMGBF, and how South Africa is exploring new ways to overcome implementation challenges.
 
 Presenter: Dr. Lize von Staden, South Africa National Biodiversity Institute
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/April%20-%20Lize%20von%20Staden/recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
