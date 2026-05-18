@@ -29,6 +29,15 @@ Biofutures is a research and policy project designed to explore the range of pos
 The project comprised four workstreams: a comprehensive review of existing models and scenarios relevant to the KM-GBF (see report tab); a proof-of-concept terrestrial modelling approach grounded in the IPBES Nature Futures Framework; an analysis of policy actions needed to achieve KM-GBF Targets and Goals; and a science-policy communications programme to disseminate findings and identify future modelling needs.
 <br><br>
 Together, these workstreams provide an broad assessment of how scenario modelling can inform biodiversity policy, helping decision-makers understand what it will take to meet global nature targets and where ambition may need to be strengthened.    
+<br><br>
+
+We presented the results from the review of existing models and scenarios relevant to the KM-GBF at a workshop we convened in May 2025
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/KM-GBF%20model%20review.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
   </div>
 </div>
 

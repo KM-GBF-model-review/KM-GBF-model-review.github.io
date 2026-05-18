@@ -80,3 +80,13 @@ Presenter: Dr. Lize von Staden, South Africa National Biodiversity Institute
   <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/April%20-%20Lize%20von%20Staden/recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+------------------
+
+**Pre-workshop webinar 4 - 1st June 2026**
+
+"Nature Futures scenarios for conservation spatial planning and policy ​implementation"
+
+This webinar will present the Nature Futures Framework — a senario modelling framework developed by IPBES — with application cases on conservation spatial planning for policy support (e.g. EU Green Deal). It will inform how scenarios and models can bridge across ecological monitoring, modelling, and indicators in conservation planning, implementation and evaluation to improve the effectiveness of anticipatory biodiversity governance.
+
+Presenter: Prof. Peter Verburg, VU University Amsterdam
