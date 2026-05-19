@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 ------------------
-In the run up to the World Biodiversity Forum in June, where we will be conveneing an in-person workshop, we will also we organising several pre-workshop webinars. There will be approximately one webinar a month and you can find details of up-coming webinars and recordings of previous webinars here.
+In the run up to the World Biodiversity Forum in June, where we will be conveneing an in-person workshop, we will also be organising a few preparatory webinars. You will find details of up-coming webinars and recordings of previous webinars here.
 
 The pre-workshop webinars are intended to provide background information that will facilitate discussion at the Workshop of the World Biodiveresity Forum in June 2026.
 
@@ -16,12 +16,12 @@ The pre-workshop webinars are intended to provide background information that wi
 
 ### World Biodiversity Forum Workshop - June 14th 2026
 
-[FUT8] Workshop "Developing actionable scenarios and models for biodiversity conservation, climate neutrality, and human wellbeing through collaborative and integrated research and practice" 
+[FUT8] Workshop "Improving data to decision flows with actionable scenarios and models for biodiversity conservation through science-policy collaboration" 
 <a href="https://meetingorganizer.copernicus.org/WBF2026/session/55563#" target="_blank" rel="noopener noreferrer">Link to Workshop</a>
 
-Date and venue: 14 June 2026, World Biodiversity Forum 2026 
+Date and venue: 14 June 2026, World Biodiversity Forum 2026, Room Schwarzhorn 0830-1800
 
-**Sign up required:** <a href="https://docs.google.com/spreadsheets/d/1CU2TcwNbZo43uieDzZPikz8LSsw2CepMYfUgZ6_jpcs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">**here**</a> 
+**Sign up required:** <a href="https://docs.google.com/spreadsheets/d/1CU2TcwNbZo43uieDzZPikz8LSsw2CepMYfUgZ6_jpcs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">**Follow this link to the sign-up sheet**</a> 
 
 --------------
 

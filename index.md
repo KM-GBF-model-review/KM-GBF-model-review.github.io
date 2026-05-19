@@ -1,13 +1,13 @@
 ---
-title: KM-GBF Model Review
+title: Global Model Review to Inform KM-GBF with Nature Futures Scenarios
 layout: splash
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: /assets/images/landscape.png
-excerpt: "Convening a network of modellers and scenario developers to tackle the biodiversity polycrisis"
+excerpt: "Convening modellers, scenario developers, and policymakers to respond to biodiversity polycrisis"
 intro: 
-  - excerpt: 'The vision of this network is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between policy bodies and scientific communities.'
+  - excerpt: 'The vision of this network is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between scientific and policy communities.'
 feature_row:
   - image_path: assets/images/landscape.png
     alt: "placeholder image 1"
@@ -19,7 +19,7 @@ feature_row2:
   - image_path: assets/images/PWW_image.jpg
     alt: "placeholder image 1"
     title: "What are we up to?"
-    excerpt: "We are running regular webinars up until a workshop at the World Biodiversity Forum in June 2026"
+    excerpt: "We are running webinars leading up to aworkshop at the World Biodiversity Forum in June 2026"
     url: "/resources/"
     btn_label: "Find out more"
     btn_class: "btn--primary"
@@ -27,18 +27,18 @@ feature_row3:
   - image_path: /assets/images/explore_database.png
     alt: "Image of database desciptive statistics"
     title: "KM-GBF Model database explorer"
-    excerpt: "Visualise how the models in our database relate to the goals and targets of the KM-GBF and other aspects of scenario analyses"
+    excerpt: "Visualise how models relate to the goals and targets of the KM-GBF, Nature Futures Framework, and other capabilities of scenario analyses"
     url: "/database_explorer/"
     btn_label: "Explore the database"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/NFF_spiral_image.jpg
-    alt: "placeholder image 2"
-    title: "How to get involved"
-    excerpt: "If you would like to contribute to the network or think your model is relevant for our database you can let us know"
+#feature_row4:
+#  - image_path: /assets/images/NFF_spiral_image.jpg
+#    alt: "placeholder image 2"
+#    title: "How to get involved"
+#    excerpt: "If you would like to contribute to the network or think your model is relevant for our database you can let us know"
     #url: "/contact/"
-    btn_label: "Contact us"
-    btn_class: "btn--primary"
+#    btn_label: "Contact us"
+#    btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
