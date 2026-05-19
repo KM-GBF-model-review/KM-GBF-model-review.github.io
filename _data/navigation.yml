@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Report"
+    url: /report/
   - title: "Resources"
     url: /resources/
   - title: "Database explorer"
     url: /database_explorer/
-  - title: "Report"
-    url: /report/
   #- title: "Contact"  
   #  url: /contact/
