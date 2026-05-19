@@ -15,7 +15,9 @@ classes: wide
     As a key part of the BioFutures project we assessed global scenario modelling capabilities in informing the CBD Kunming-Montreal Global Biodiversity Framework using the Nature Futures Framework.
     <br><br>
     Read the full report <a href="https://sciencesearch.defra.gov.uk/ProjectDetails?ProjectId=21822" target="_blank">here</a>
-    <br><br>
+  </div>
+</div>
+--------------
 
 We also presented the key results and insights from this review at a workshop we convened in May 2025, which has extended to this initiative.
 
@@ -23,8 +25,6 @@ We also presented the key results and insights from this review at a workshop we
   <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/KM-GBF%20model%20review.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-  </div>
-</div>
 
 ## Key recommendations from the report
 
