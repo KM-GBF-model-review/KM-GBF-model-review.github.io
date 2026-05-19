@@ -22,22 +22,13 @@ Our hope is for this network to support collaborative research, shared scenario 
   <div>
     <strong>BioFutures project</strong>
 <br><br>
-The motivation and need to initiate this network stemmed from the BioFutures project funded by the UK Department of Environment, Food and Rural Affairs (DEFRA) and in collaboration with UNEP-WCMC, UKCEH, NHM, and the University of Edinburgh.
+This initiative is inspired by BioFutures project (2024-2026) funded by the UK Department of Environment, Food and Rural Affairs (DEFRA) and in collaboration with UNEP-WCMC, UKCEH, NHM, and the University of Edinburgh.
 <br><br>
-Biofutures is a research and policy project designed to explore the range of possible outcomes from implementing the Kunming-Montreal Global Biodiversity Framework (KM-GBF). The project addresses a critical evidence gap: how different beliefs and approaches to nature could lead to diverging futures for both biodiversity and people, and whether the KM-GBF's ultimate goals can be achieved under varying interpretations of nature in policy implementation pathways.
+Biofutures was a research and policy project designed to explore the range of possible outcomes from implementing the Kunming-Montreal Global Biodiversity Framework (KM-GBF). The project addressed a critical evidence gap: how different beliefs and approaches to nature could lead to diverging futures for both biodiversity and people, and whether the KM-GBF's ultimate goals can be achieved under varying interpretations of nature in policy implementation pathways.
 <br><br>
-The project comprised four workstreams: a comprehensive review of existing models and scenarios relevant to the KM-GBF (see report tab); a proof-of-concept terrestrial modelling approach grounded in the IPBES Nature Futures Framework; an analysis of policy actions needed to achieve KM-GBF Targets and Goals; and a science-policy communications programme to disseminate findings and identify future modelling needs.
+The project was comprised of four workstreams: a comprehensive review of existing models and scenarios relevant to the KM-GBF (see report tab); a proof-of-concept terrestrial modelling approach grounded in the IPBES Nature Futures Framework; an analysis of policy actions needed to achieve KM-GBF Targets and Goals; and a science-policy communications programme to disseminate findings and identify future modelling needs.
 <br><br>
 Together, these workstreams provide an broad assessment of how scenario modelling can inform biodiversity policy, helping decision-makers understand what it will take to meet global nature targets and where ambition may need to be strengthened.    
-<br><br>
-
-We presented the results from the review of existing models and scenarios relevant to the KM-GBF at a workshop we convened in May 2025
-
-<video width="640" height="360" controls>
-  <source src="https://github.com/KM-GBF-model-review/Pre-workshop-Webinars/raw/main/KM-GBF%20model%20review.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
   </div>
 </div>
 
