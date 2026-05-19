@@ -7,11 +7,11 @@ header:
     overlay_image: /assets/images/landscape.png
 excerpt: "Convening modellers, scenario developers, and policymakers to respond to biodiversity polycrisis"
 intro: 
-  - excerpt: 'The vision of this network is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between scientific and policy communities.'
+  - excerpt: 'The vision of this initiative is to improve the use of scenarios in the design and implementation of the Global Biodiversity Framework, National Biodiversity Strategies and Action Plans, and National Reporting through collaboration between scientific and policy communities.'
 feature_row:
   - image_path: assets/images/landscape.png
     alt: "placeholder image 1"
-    title: "Learn about the network"
+    title: "Learn about the initiative"
     url: "/about/"
     btn_label: "About us"
     btn_class: "btn--primary"
