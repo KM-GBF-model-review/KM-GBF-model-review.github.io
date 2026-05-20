@@ -121,9 +121,5 @@ targets agreed upon by the governments to achieve in this decade, there is a cri
 develop biodiversity-centred integrated models that represent that account for drivers,
 pressures, responses, and enablers outlined in the KM-GBF framework.
 
-3. **Promote Model Intercomparison Programs**
-Well-designed model intercomparison programs, supported by structured science-policy
-connections and sustainable funding, can accelerate model development. These programs
-would address uncertainties in biodiversity science, the interconnectedness of KM-GBF goals
-and targets, and the participatory nature of the Nature Futures Framework (NFF). They would
-foster collaborative learning and integrated model development.
+3. **Promote Model Innovation and Intercomparison Programs**
+Well-designed and coordinated model innovation and intercomparison programs, supported by structured science-policy connections and sustainable funding, can accelerate model development. These programs would address uncertainties in biodiversity science, the interconnectedness of KM-GBF goals and targets, and the participatory nature of the Nature Futures Framework (NFF). They would foster collaborative learning and integrated model development.
